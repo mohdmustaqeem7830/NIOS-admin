@@ -1,0 +1,295 @@
+<resources>
+    <string name="app_name">Admin NIos</string>
+    <string-array name="standard">
+        <item>X</item>
+        <item>XII</item>
+        <item>VOCATIONAL</item>
+        <item>DIPLOMA_ENGLISH</item>
+        <item>DIPLOMA_HINDI</item>
+        <item>NOTIFICATION</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>English Medium</item>
+        <item>Hindi Medium</item>
+        <item>Urdu Medium</item>
+        <item>Guide</item>
+        <item>Solved Practical</item>
+        <item>Worksheet</item>
+        <item>Solved TMA</item>
+        <item>Question Papers</item>
+        <item>Notes</item>
+        <item>Syllabus</item>
+    </string-array>
+
+
+    <!--    same for tma, previous years papers-->
+    <string-array name="subject_english_medium_X">
+        <item>Accountancy</item>
+        <item>Arabic</item>
+        <item>Assamese</item>
+        <item>Bengali</item>
+        <item>Business Studies</item>
+        <item>Bharatya Darshan</item>
+        <item>Carnatic Music</item>
+        <item>Data Entry Operation</item>
+        <item>Economics</item>
+        <item>English</item>
+        <item>Entrepreneurship</item>
+        <item>Gujarati</item>
+        <item>Hindi</item>
+        <item>Hindustani Music</item>
+        <item>Home Science</item>
+        <item>Indian Culture Heritage</item>
+        <item>Kannada</item>
+        <item>Malayalam</item>
+        <item>Marathi</item>
+        <item>Mathematics</item>
+        <item>Nepali</item>
+        <item>Odia</item>
+        <item>Painting</item>
+        <item>Persian</item>
+        <item>Psychology</item>
+        <item>Panjabi</item>
+        <item>Sanskrit</item>
+        <item>Sanskrit Sahitya</item>
+        <item>Sanskrit Vyakarna</item>
+        <item>Science and Technology</item>
+        <item>Sindhi</item>
+        <item>Social Science</item>
+        <item>Tamil</item>
+        <item>Telgue</item>
+        <item>Urdu</item>
+        <item>Veda Adhayayan</item>
+    </string-array>
+
+    <string-array name="subject_hindi_medium_X">
+        <item>Accountancy</item>
+        <item>Business Studies</item>
+        <item>Data Entry Operation</item>
+        <item>Economics</item>
+        <item>Home Science</item>
+        <item>Hindi</item>
+        <item>Indian Culture Heritage</item>
+        <item>Mathematics</item>
+        <item>Painting</item>
+        <item>Psychology</item>
+        <item>Science and Technology</item>
+        <item>Social Science</item>
+    </string-array>
+
+    <string-array name="practical_work_X">
+        <item>Home Science</item>
+        <item>Data Entry Operation</item>
+        <item>Mathematics</item>
+        <item>Painting</item>
+    </string-array>
+
+    <string-array name="medium_categories_X">
+        <item>Hindi Medium</item>
+        <item>English Medium</item>
+
+    </string-array>
+
+    <string-array name="guide_books_X">
+        <item>English</item>
+        <item>Painting</item>
+        <item>Mathematics</item>
+        <item>Economics</item>
+        <item>Urdu</item>
+        <item>Hindi</item>
+        <item>Home Science</item>
+        <item>Social Science</item>
+        <item>Indian Culture Heritage</item>
+        <item>Psychology</item>
+        <item>Business Studies</item>
+        <item>Data Entry Operation</item>
+        <item>Science and Technology</item>
+        <item>Arabic</item>
+        <item>Sanskrit</item>
+        <item>Carnatic Music</item>
+        <item>Sindhi</item>
+        <item>Hindustani Music</item>
+    </string-array>
+
+    <string-array name="worksheet_X">
+        <item>Accountancy</item>
+        <item>Arabic</item>
+        <item>Business Studies</item>
+        <item>Carnatic Music</item>
+        <item>Data Entry Operation</item>
+        <item>Economics</item>
+        <item>English</item>
+        <item>Entrepreneurship</item>
+        <item>Hindustani Music</item>
+        <item>Home Science</item>
+        <item>Hindi</item>
+        <item>Indian Culture Heritage</item>
+        <item>Mathematics</item>
+        <item>Painting</item>
+        <item>Persian</item>
+        <item>Psychology</item>
+        <item>Sanskrit</item>
+        <item>Science and Technology</item>
+        <item>Sindhi</item>
+        <item>Social Science</item>
+        <item>Tamil</item>
+        <item>Telgue</item>
+        <item>Urdu</item>
+    </string-array>
+
+
+    <!--    same for tma, previous years papers-->
+    <string-array name="subject_english_medium_XII">
+        <item>Accountancy</item>/
+        <item>Arabic</item>/
+        <item>Bengali</item>/
+        <item>Bharatiya Darshan</item>/
+        <item>Biology</item>/
+        <item>Business Studies</item>/
+        <item>Chemistry</item>/
+        <item>Computer Science</item>/
+        <item>Data Entry Operation</item>/
+        <item>Early Childhood Care and Education</item>/
+        <item>Economics</item>/
+        <item>Employability Skills</item>
+        <item>English</item>/
+        <item>Environmental Science</item>/
+        <item>Geography</item>/
+        <item>Hindi</item>/
+        <item>Gujarati</item>/
+        <item>History</item>/
+        <item>Home Science</item>/
+        <item>Introduction to Law</item>/
+        <item>Information and Education Science</item>
+        <item>Malayalam</item>/
+        <item>Mass Communication</item>/
+        <item>Mathematics</item>/
+        <item>Military History</item>/
+        <item>Military Studies</item>/
+        <item>Odia</item>/
+        <item>Painting</item>/
+        <item>Physical Education and Yog</item>/
+        <item>Political Science</item>/
+        <item>Psychology</item>/
+        <item>Physics</item>/
+        <item>Panjabi</item>/
+        <item>Sanskrit</item>/
+        <item>Sanskrit Sahitya</item>/
+        <item>Sanskrit Vyakarna</item>/
+        <item>Sindhi</item>
+        <item>Sociology</item>/
+        <item>Tamil</item>
+        <item>Tourism</item>/
+        <item>Urdu</item>
+        <item>Veda Adhyayan</item>/
+    </string-array>
+
+    <string-array name="subject_hindi_medium_XII">
+        <item>Accountancy</item>
+        <item>Biology</item>
+        <item>Bharatiya Darshan</item>/
+        <item>Business Studies</item>
+        <item>Chemistry</item>
+        <item>Data Entry Operation</item>
+        <item>Economics</item>
+        <item>Environmental Science</item>
+        <item>Geography</item>
+        <item>Hindi</item>
+        <item>History</item>
+        <item>Home Science</item>
+        <item>Introduction to Law</item>
+        <item>Information and Education Science</item>
+        <item>Mass Communication</item>
+        <item>Mathematics</item>
+        <item>Political Science</item>
+        <item>Psychology</item>
+        <item>Physics</item>
+        <item>Sanskrit Sahitya</item>
+        <item>Sanskrit Vyakarana</item>
+        <item>Sociology</item>
+        <item>Indian Culture Heritage</item>
+        <item>Mathematics</item>
+        <item>Tourism</item>
+        <item>Veda Adhyayan</item>
+    </string-array>
+
+    <string-array name="practical_work_XII">
+        <item>Home Science</item>
+        <item>Data Entry Operation</item>
+        <item>Computer Science</item>
+        <item>Chemistry</item>
+        <item>Physics</item>
+        <item>Biology</item>
+        <item>Library and Information Science</item>
+        <item>Mass Communication</item>
+        <item>Environmental Science</item>
+        <item>Physical Education and Yoga</item>
+        <item>Painting</item>
+    </string-array>
+
+    <string-array name="medium_categories_XII">
+        <item>Hindi Medium</item>
+        <item>English Medium</item>
+
+    </string-array>
+
+    <string-array name="guide_books_XII">
+        <item>Accountancy</item>
+        <item>Biology</item>
+        <item>Business Studies</item>
+        <item>Chemistry</item>
+        <item>Computer Science</item>
+        <item>Data Entry Operation</item>
+        <item>Early Childhood Care and Education</item>
+        <item>English</item>
+        <item>Environmental Science</item>
+        <item>Geography</item>/
+        <item>Hindi</item>
+        <item>History</item>
+        <item>Home Science</item>/
+        <item>Information and Education Science</item>
+        <item>Mass Communication</item>
+        <item>Mathematics</item>
+        <item>Painting</item>
+        <item>Physics</item>
+        <item>Political Science</item>
+        <item>Psychology</item>
+        <item>Sanskrit</item>
+        <item>Sociology</item>
+        <item>Urdu</item>
+    </string-array>
+
+    <string-array name="work_sheet_XII">
+        <item>Accountancy</item>
+        <item>Arabic</item>
+        <item>Biology</item>
+        <item>Business Studies</item>
+        <item>Chemistry</item>
+        <item>Computer Science</item>
+        <item>Data Entry Operation</item>
+        <item>Early Childhood Care and Education</item>
+        <item>Economics</item>
+        <item>English</item>
+        <item>Environmental Science</item>
+        <item>Geography</item>
+        <item>History</item>
+        <item>Home Science</item>
+        <item>Introduction to Law</item>
+        <item>Information and Education Science</item>
+        <item>Mass Communication</item>
+        <item>Mathematics</item>
+        <item>Military History</item>
+        <item>Military Studies</item>
+        <item>Painting</item>
+        <item>Physical Education and Yog</item>
+        <item>Political Science</item>
+        <item>Psychology</item>
+        <item>Physics</item>
+        <item>Sociology</item>
+        <item>Tourism</item>
+        <item>Urdu</item>
+        <item>Veda Adhyayan</item>
+    </string-array>
+
+</resources>
